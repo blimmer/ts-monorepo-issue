@@ -1,0 +1,11 @@
+{
+  "name": "user-of-shared-constructs",
+  "packageManager": "yarn@3.0.2",
+  "private": true,
+  "dependencies": {
+    "shared-constructs": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
